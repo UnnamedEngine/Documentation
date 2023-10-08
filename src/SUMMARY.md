@@ -1,10 +1,21 @@
 # Summary
 
 [Introduction](./introduction/introduction.md)
-- [motivation](./introduction/motivation.md)
 
-# User Guide
+- [Motivation](./introduction/motivation.md)
+
 - [Modding](./modding/modding.md)
+  - [Developing a Mod]()
+    - [Luau?]()
+    - [First Mod]()
+    - [Publishing a Mod]()
+  - [Modpacks]()
 
-# Reference Guide
+- [API Reference]()
+
 - [Structure](./structure/structure.md)
+  - [ECS and TECS]()
+  - [Networking]()
+  - [Input]()
+  - [Global Configuration]()
+  - [Hot Reloading]()
