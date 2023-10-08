@@ -1,5 +1,7 @@
 [book]
+title = "Unnamed Engine"
 authors = ["ZotyDev"]
+description = "A book that describes Unnamed Engine and how to use it in depth"
 language = "en"
 multilingual = false
 src = "src"
