@@ -14,8 +14,8 @@
 - [API Reference]()
 
 - [Structure](./structure/structure.md)
+  - [Global Configuration](./structure/global_configuration/global_configuration.md)
   - [ECS and TECS]()
   - [Networking]()
   - [Input]()
-  - [Global Configuration]()
   - [Hot Reloading]()
