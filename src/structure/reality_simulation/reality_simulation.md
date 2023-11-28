@@ -12,7 +12,7 @@ There is a small niche part of the community (me included) that would die for th
 
 **_If you can see it, you can get there_**
 
-That's the north of the design behind UE, faking but actually not faking. If you look up all the starts sholud be there, existing on their own, just waiting for you to explore them.
+That's the north of the design behind UE, faking but actually not faking. If you look up all the starts should be there, existing on their own, just waiting for you to explore them.
 
 ## Disclaimer
-As stated before, not everything inside the documentation works perfecty or is implemented, and currently this is the most W.I.P part of the book. Everything here is subject to change in the future, but hopefully we will find a solid design that doesn't need to change.
+As stated before, not everything inside the documentation works perfectly or is implemented, and currently this is the most W.I.P part of the book. Everything here is subject to change in the future, but hopefully we will find a solid design that doesn't need to change.

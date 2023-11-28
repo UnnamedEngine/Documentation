@@ -17,6 +17,7 @@
   - [Global Configuration](./structure/global_configuration/global_configuration.md)
   - [Reality Simulation](./structure/reality_simulation/reality_simulation.md)
     - [Introduction](./structure/reality_simulation/introduction.md)
+    - [Dimensions](./structure/reality_simulation/dimensions.md)
   - [ECS and TECS]()
   - [Networking]()
   - [Input]()

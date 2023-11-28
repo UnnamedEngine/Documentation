@@ -6,7 +6,7 @@ The explanation will have this flow: **Bigger -> Lower**
 
 
 ## Reality
-Well, I can't tell you what reality itself is, if its real or not, or other types of affirmations that are outside of the scope of your development, we are game developers and will be ignorig all the details related to what is what. The terminology used inside UE takes inspiration in real life, but is adapted to fit our deign and goals.
+Well, I can't tell you what reality itself is, if it's real or not, or other types of affirmations that are outside of the scope of your development, we are game developers and will be ignoring all the details related to what is what. The terminology used inside UE takes inspiration in real life, but is adapted to fit our design and goals.
 
 `Reality` is the uppermost container, everything that _exist_ is inside of a `Reality`, note that things that don't _exist_ are not contained in a reality!
 
@@ -18,7 +18,7 @@ A Graphical User Interface GUI **does not exist**. Well, you can see it, but the
 A `Reality` contains two things.
 
 - [`Reality Rules`]()
-- [`Dimensions`]()
+- [`Dimensions`](./dimensions.md)
 
 These two things are responsible for defining our game "world". Note that since UE was born to create a complex and exotic game, why not provide the tools to make these types of games easier to be reused?
 
